@@ -14,13 +14,19 @@ PizzaWorld est un site vitrine pour une pizzeria, créé à l'aide d'un mini-fra
 ## Structure du projet
 
 ```
-pizza-site/
-├── index.html          # Page d'accueil du site
-├── main.js             # Logique principale de l'application
-├── framework/          # Code source du mini-framework
-│   ├── tiny-react.js   # Framework pour la gestion du DOM
-│   └── component.js    # Composants de base
-├── styles.css          # Styles de l'application
+pizza_web/
+│   index.html
+│   README.md
+│
+└───src
+    │   app.js
+    │
+    ├───components
+    │       navigation.js
+    │       pizzaList.js
+    │
+    └───framework
+            core.js
 ```
 
 ## Prérequis
