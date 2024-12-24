@@ -9,7 +9,6 @@ PizzaWorld est un site vitrine pour une pizzeria, créé à l'aide d'un mini-fra
 
 - **Gestion du DOM virtuel** : Un mini-framework permet de rendre dynamiquement le contenu du site.
 - **Composants** : Création de composants personnalisés pour afficher des éléments comme des pizzas, un titre, et un menu.
-- **Site responsive** : Affichage adapté sur différents appareils grâce à du CSS simple.
 
 ## Structure du projet
 
