@@ -37,7 +37,7 @@ pizza_web/
 
 1. Clonez ce repository sur votre machine :
    ```bash
-   git clone https://github.com/votre-utilisateur/pizza-site.git
+   git clone https://github.com/dasbap/pizza_web.git
    ```
 
 2. Ouvrez le fichier `index.html` dans votre navigateur pour voir le site (lancé un server http à l'emplacement du fichier si rien n'est afficher).
